@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c86c09e9-9117-4ce7-8b6d-e63d3799bf0a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/.pgbomit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/bada/icon-128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/tizen/icon-128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/windows-phone/icon-173-tile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/android/icon-36-ldpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/android/icon-48-mdpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/bada-wac/icon-48-type5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/windows-phone/icon-48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/bada-wac/icon-50-type3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/ios/icon-57-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/ios/icon-57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/windows-phone/icon-62-tile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/webos/icon-64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/ios/icon-72-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/android/icon-72-hdpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/ios/icon-72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/bada-wac/icon-80-type4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/blackberry/icon-80.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/icon/android/icon-96-xhdpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/res/drawable/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-hdpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-xxhdpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/screen/blackberry/screen-225.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/screen/webos/screen-64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/screen/android/screen-hdpi-landscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/screen/android/screen-hdpi-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/screen/ios/screen-ipad-landscape-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/screen/ios/screen-ipad-landscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/screen/ios/screen-ipad-portrait-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/screen/ios/screen-ipad-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/screen/ios/screen-iphone-landscape-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/screen/ios/screen-iphone-landscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/screen/ios/screen-iphone-portrait-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/screen/ios/screen-iphone-portrait-568h-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/screen/ios/screen-iphone-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/screen/android/screen-ldpi-landscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/screen/android/screen-ldpi-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/screen/android/screen-mdpi-landscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/screen/android/screen-mdpi-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/screen/windows-phone/screen-portrait.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/screen/bada/screen-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/screen/bada-wac/screen-type3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/screen/bada-wac/screen-type4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/screen/bada-wac/screen-type5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/screen/android/screen-xhdpi-landscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/screen/android/screen-xhdpi-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-land-hdpi/screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-land-ldpi/screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-land-mdpi/screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-land-xhdpi/screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-port-hdpi/screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-port-ldpi/screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-port-mdpi/screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-port-xhdpi/screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/.documentup.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/AuthenticationToken.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/src/ios/CDVNavigationWhitelistPlugin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/src/ios/CDVNavigationWhitelistPlugin.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/q/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CallbackContext.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/Config.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/ConfigXmlParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaArgs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaBridge.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaClientCertRequest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaDialogsHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaHttpAuthHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaInterfaceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/CordovaLib.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaPlugin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaPreferences.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaResourceApi.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaWebView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaWebViewEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CordovaWebViewImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/CoreAndroid.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/ExposedJsApi.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/ICordovaClientCertRequest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/ICordovaCookieManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/ICordovaHttpAuthHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/nopt/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/nopt/node_modules/abbrev/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/q/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/which/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/LOG.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/spec/lib/jasmine-1.2.0/MIT.LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/src/com/phonegap/helloworld/MainActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/NOTICE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/NativeToJsMessageQueue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/PluginEntry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/PluginManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/PluginResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/res/screen/tizen/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/q/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/which/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/engine/SystemCookieManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/engine/SystemExposedJsApi.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/engine/SystemWebChromeClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/engine/SystemWebView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/engine/SystemWebViewClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/engine/SystemWebViewEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/src/org/apache/cordova/Whitelist.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/src/org/apache/cordova/whitelist/WhitelistPlugin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/src/android/WhitelistPlugin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/_where-is-www.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/nopt/node_modules/abbrev/abbrev.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/android.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/android_sdk_version.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/android_sdk_version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/cordova-js-src/plugin/android/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/platform_www/cordova-js-src/plugin/android/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/appinfo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/build.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/build" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/cat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/cd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/check_reqs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/check_reqs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/chmod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/clean" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/q/benchmark/compare-with-callbacks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/res/xml/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/src/cordova-plugin-whitelist.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/cordova.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/cordova.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/platform_www/cordova.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/cordova_plugins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/cp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/defaults.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/device.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/dirs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/echo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/emulator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/cordova-js-src/exec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/exec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/exec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/platform_www/cordova-js-src/exec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/fetch.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/find.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/scripts/generate-docs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/grep.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/spec/helper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/spec/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/install-device.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/install-device" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/install-emulator.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/install-emulator" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/spec/lib/jasmine-1.2.0/jasmine-html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/spec/lib/jasmine-1.2.0/jasmine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/spec/lib/jasmine-1.2.0/jasmine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/jquery-1.11.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/jquery.mobile-1.4.5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/jquery.mobile.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/list-devices.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/list-devices" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/list-emulator-images.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/list-emulator-images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/list-started-emulators.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/list-started-emulators" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/log.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/log.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/ls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/make.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/mkdir.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/mv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/cordova-js-src/android/nativeapiprovider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/platform_www/cordova-js-src/android/nativeapiprovider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/nopt/lib/nopt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/nopt/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/nopt/node_modules/abbrev/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/q/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/which/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phonegaphello.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/phonegaphello.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/cordova-js-src/platform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/platform_www/cordova-js-src/platform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/platforms.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/plugin-build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/popd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/cordova-js-src/android/promptbasednativeapi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/platform_www/cordova-js-src/android/promptbasednativeapi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/pushd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/pwd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/q/q.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/q/queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/rm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/scripts/run-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/run.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/run.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/run" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/q/benchmark/scenarios.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/sed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/settings.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/shell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/bin/shjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/spawn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/spec.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/start-emulator.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/lib/start-emulator" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/tempdir.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/to.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/toEnd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/version.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/shelljs/src/which.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/which/which.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/which/bin/which" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/assets/www/plugins/cordova-plugin-whitelist/whitelist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/whitelist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+    </list>
+    <ignored path="phonegaphello.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="phonegaphello" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="59" selection-start-line="36" selection-start-column="59" selection-end-line="36" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="76" selection-start-line="2" selection-start-column="76" selection-end-line="2" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.16111708">
+              <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/platforms/android/assets/www/index.html" />
+        <option value="$PROJECT_DIR$/www/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1920" />
+    <option name="y" value="1104" />
+    <option name="width" value="1920" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegaphello" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegaphello" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegaphello" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegaphello" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegaphello" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegaphello" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegaphello" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegaphello" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegaphello" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegaphello" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="jdk.selected.JAVA_MODULE" value="Android API 22 Platform" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="false" name="hello" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="phonegaphello" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_PROJECT_ID" value="Please select a project..." />
+      <option name="IS_VALID_CLOUD_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_SELECTION_ERROR" value="Matrix configuration not specified" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c86c09e9-9117-4ce7-8b6d-e63d3799bf0a" name="Default" comment="" />
+      <created>1437061235359</created>
+      <option name="number" value="Default" />
+      <updated>1437061235359</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="1104" width="1920" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.gradle" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="59" selection-start-line="36" selection-start-column="59" selection-end-line="36" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="59" selection-start-line="36" selection-start-column="59" selection-end-line="36" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="76" selection-start-line="2" selection-start-column="76" selection-end-line="2" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16111708">
+          <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>phonegaphello</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

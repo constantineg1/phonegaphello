@@ -1,0 +1,3 @@
+include ':phonehaphello_module', 'phonegaphello_a', ':CordovaLib'
+project('phonegaphello_a').projectDir = new File('platforms/android')
+project(':CordovaLib').projectDir = new File('platforms/android/CordovaLib')
